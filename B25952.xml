@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lex talionis, or, A receipt for the relief of our present distempers.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25952</idno><idno type="EEBO-CITATION">99882873</idno>
+  <idno type="VID">186046</idno>
+  <idno type="EEBO-PROQUEST">2240872730</idno>
+  
+            <idno type="OCLC"> 12392494</idno>
+            <idno type="STC">Wing L1862</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.100*[79]</idno>
+            <idno type="STC">ESTC R14928</idno>
+            <idno type="STC">ESTC R223025</idno>
+            <idno type="STC">ESTC R14928</idno>
+            <idno type="PROQUEST">ocm99882873</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99882873e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25952)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186046)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C3:2[78])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lex talionis, or, A receipt for the relief of our present distempers.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:186046:1"/>
+            <head>Lex Talionis, OR, A RECEIPT for the Relief of our Present Distempers.</head>
+            <p>AS Epidemick diseases, when Infection hath possessed the ayr, raigns powerfully over the bodies of Mortalls, so sometimes even their Souls seem to be possest with an Universall frensy, when the spirits of the ayr hath infused, as it were a spirituall madness into their mindes, to make them not only believe a lye, (even from the mouths of the most Infamous) but like the deprav'd appetites of the body, which longs for all things that are poysonous to themselves; so they with as much earnestness hunt after all things that may encrease their distemper, and give more disorder to their understandings; This is one of the greatest punishments that God uses to revenge the greatest sins with, to give them up to the belief of lyes, and put a lye into the mouths of their Prophets, thus punishing sin with sin, makes them run round in a vicious Circulation, and Endless giddiness of Errour; From thence proceeds all those fears, those jealousies, that thus disturb our quiet, and repose under the go<g ref="char:EOLhyphen"/>vernment of the best of Princes, and best of Laws: From these suspitions proceed the want of commerce and dearth of trade: From these distractions, Envy and hatred amongst neighbours, Relations, and Kindred: From these fatall feuds false witnesses, Briberies and pensions for per<g ref="char:EOLhyphen"/>juries arise: I would it were in my power even with the mixture of my Bloud to make a Salve for these wounds, or give a Cordiall to these distempers so raging at this time amongst us: I shall now only prescribe the Ingredients as I have received them from a <hi>Recipe,</hi> under his hand, that cannot lye nor deceive us, and consequently I hope the better antidote against lyes, which is one of our present Evils; I shall not compound nor prescribe the measure of them, but leave every one to take what Dose he thinks his own distemper requires: I shall not paraphrase upon their perfections, because none whose madness is not beyond cure, can doubt them, coming from so perfect a principle; plainly therefore, and as I finde them, you shall have them.</p>
+            <p>The first and most Excellent against the multiplicity of vain and false Oaths, and the perni<g ref="char:EOLhyphen"/>tious frensy of Perjury is, <hi>Thou shalt not take the name of thy Lord thy God in vain,</hi> and if not <hi>vain<g ref="char:EOLhyphen"/>ly,</hi> much less <hi>falsely.</hi>
+            </p>
+            <p>The second and most particular remedy against the distraction of detraction, is, <hi>Thou shalt not bear false witness against thy Neighbour.</hi>
+            </p>
+            <p>The third is, to shew us the danger of this distemper, and the Remedy for it is, <hi>If a false witnesse rise up against any man, to testify against him what is not true, The Judges, shall make great In<g ref="char:EOLhyphen"/>quisition between them, and if the witnesse be found a false-witnesse, and hath testifyed falsely against his Brother, Then shall he do to him as he thought to have done to his brother, so shall you put away the Evill from amongst you: and then eyes shall not pitty him, but life shall go for life, eye for eye, tooth for tooth, hand for hand, and foot for foot,</hi> as <hi>Deut. Chap.</hi> 19. <hi>ver.</hi> 16. <hi>Neither shalt thou make distinction of persons; but you shall have one manner of law as well for strangers as your own Countrey-men: Lev.</hi> Chap. 24. <hi>ver.</hi> 22.</p>
+            <p>This as you see being the law of God is followed by the Civil law, or <hi>Jus Gentium,</hi> and called <hi>Lex Talionis,</hi> as the most equall and rationall law of mankinde. This did the most wise of Princes set down as a Maxim amongst his Proverbs: <hi>A false witnesse shall not be unpunished, and he
+<pb n="2" facs="tcp:186046:2"/>that speaks lyes shall not escape, Prov.</hi> Chap. 19. <hi>ver.</hi> 5. And this doth our most equal and excel<g ref="char:EOLhyphen"/>lent Municipall laws of our Land intend, when it says, No Free-man shall be convicted but by the testimony of two sufficient, honest and credible witnesses; and their evidence (so called from the composition of <hi>E</hi> and <hi>Video,</hi> which is clear and seen) ought to be, as Judge <hi>Cock</hi> says, <hi>Luce clariores,</hi> clearer then the light it self: And for the greater Caution in this important af<g ref="char:EOLhyphen"/>fair, our Law hath ordained that twelve able and understanding men of the visenage or Neigh<g ref="char:EOLhyphen"/>bourhood, where the fact was said to be Committed, should upon their Conscience enquire, as well into the honesty and Integrity of the person accusing, and the person accused, as the clear and evident matter of fact before them.</p>
+            <p>Now if a common, cheat a pickpocket, a horse-stealer, or they whose Life hath been only conversant in cousenings and falsityes, without any previous appearance of amendment, shall cause an honest upright and just person to all appearance, and without more probabilitys then his particular asseveration, what person think you (without the prejudice of his Nation) could believe it; But if indeed to pick a purse, to steal a horse, to cheat some young ofe of his money, were the designe; none more proper for that consult, then leud Indigent, and vitious persons; But to raise a War, to Subvert Governments, and introduce a Religion, to use for the principall contrivers of that, those who can raise nothing but a Regiment of Lice, whose credit would not go for a crackt groat, and whose Religion is worse then honest Atheism, is incredible; for amongst Barbarians there hath not perhaps been found, so horrid an example of perjury and partiality as is countenanced amongst us; much less can reason and Conscience look on it without a blush, and not suffer it to be redressed without a blemish to the Justice of our Nation: Let us therefore have recourse not only to our own reasons, but to the Law of God and Man, as well Natural as civill, and you will finde no security too great for inno<g ref="char:EOLhyphen"/>cency, no punishment too severe for perjury.</p>
+            <p>This, Gentlemen is our safety both as to Law and Conscience; this is the security of our lives, liberties, and fortunes, against all base, unworthy, and leud ill-livers, who as they have sold their Souls to vice and liberty, so will they sell our lives to maintain their Luxury: If therefore you will free your selves, and others, from this dangerous Infection; imitate the pious prudence of the Prophet <hi>Daniel,</hi> where seperating the two false witnesses, he in<g ref="char:EOLhyphen"/>trapped them in their one lye, and caught them in the same snare their lust and mal<g ref="char:EOLhyphen"/>lice had laid for innocent blood, whose words crying to Heaven, (much more would her blood, had it been spilt,) she said, <hi>Eternal God, which art the knower of all hidden things before they are come to pass, thou knowest they have born false-witness against me, and lo I dye, whereas I have done none of those things which those Men have maliciously forged against me, and the Lord heard her voice,</hi> and returning to judgement because they had given false Testimony, they did with them as they would have done against their Innocent Neigh<g ref="char:EOLhyphen"/>bours, <hi>Dan.</hi> Chap. 13. This is the best and only way timely to stop this dangerous In<g ref="char:EOLhyphen"/>fection from spreading farther amongst us, and prevent those ills that may over-take those that think themselves the securest of us.</p>
+            <p>So long live the King, and all that love him, and let the Enemies of our Lord the King be like the young Man <hi>Absolon,</hi> as <hi>Kings,</hi> Chap. 18. Ver. 32.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
